@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/abice/go-enum/generator"
+	"github.com/alex-ikse/go-enum/generator"
 	"github.com/labstack/gommon/color"
 	"github.com/urfave/cli/v2"
 )
