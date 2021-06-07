@@ -40,7 +40,7 @@ func main() {
 
 	app := &cli.App{
 		Name:            "go-enum",
-		Usage:           "An enum generator for go",
+		Usage:           "An enum generator for go (that handle + sign)",
 		HideHelpCommand: true,
 		Flags: []cli.Flag{
 			&cli.StringSliceFlag{
