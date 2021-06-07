@@ -1,4 +1,4 @@
-module github.com/abice/go-enum
+module github.com/alex-ikse/go-enum
 
 go 1.12
 
